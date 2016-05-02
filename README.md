@@ -1,9 +1,9 @@
 # Assignment2
 
-# DMU Subbmition by Backseat Gaming
+DMU Subbmition by Backseat Gaming
 
-# Ben
-# Ed
-# Jacob
-# Kelley
-# Krys
+Ben
+Ed
+Jacob
+Kelley
+Krys
